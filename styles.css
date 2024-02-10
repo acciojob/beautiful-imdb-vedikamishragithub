@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.moviePic{
+  height:70vh;
+  width:70vw;	
+  padding:20px;
+  opacity: 0.5;
+}
+.moviePic:hover{
+     opacity: 5;
+ }
+.movieDetail{
+  position:relative;
+  top:20px;	
+ 	
+  width:400px;	
+  text-align:center;
+  font-size:20px;	
+  	
+ }
